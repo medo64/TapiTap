@@ -1,0 +1,12 @@
+syntax: glob
+
+hardware/datasheets/**
+hardware/dist/**
+hardware/research/**
+hardware/src/*-backups
+hardware/src/fp-info-cache
+hardware/src/*.kicad_prl
+hardware/src/*.kicad_*.lck
+hardware/src/*.gcode
+
+*.pdf
